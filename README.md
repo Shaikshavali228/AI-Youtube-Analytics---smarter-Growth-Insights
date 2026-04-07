@@ -109,11 +109,11 @@ Make sure the following are installed:
 - API Keys (Gemini, Replicate, Clerk, Bright Data)
 
 ---
-
-### **Step 1 — Clone Repository**
-
 📊 Results
 The system demonstrated improved efficiency in content creation and optimization. AI-generated thumbnails, scripts, and metadata were relevant and visually effective. Trending keyword suggestions enhanced video discoverability, while optimization tools improved metadata quality. Outlier detection successfully identified high-performing videos, and weekly reports provided clear performance insights. Overall, the platform reduced manual effort and improved workflow efficiency.
+### **Step 1 — Clone Repository**
+
+
 
 ```bash
 git clone https://github.com/your-username/ai-youtube-analytics-tools.git
