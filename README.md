@@ -112,6 +112,9 @@ Make sure the following are installed:
 
 ### **Step 1 — Clone Repository**
 
+📊 Results
+The system demonstrated improved efficiency in content creation and optimization. AI-generated thumbnails, scripts, and metadata were relevant and visually effective. Trending keyword suggestions enhanced video discoverability, while optimization tools improved metadata quality. Outlier detection successfully identified high-performing videos, and weekly reports provided clear performance insights. Overall, the platform reduced manual effort and improved workflow efficiency.
+
 ```bash
 git clone https://github.com/your-username/ai-youtube-analytics-tools.git
 cd ai-youtube-analytics-tools
@@ -133,5 +136,5 @@ npm run dev
 Open in browser:
 
 http://localhost:3000
-📊 Results
-The system demonstrated improved efficiency in content creation and optimization. AI-generated thumbnails, scripts, and metadata were relevant and visually effective. Trending keyword suggestions enhanced video discoverability, while optimization tools improved metadata quality. Outlier detection successfully identified high-performing videos, and weekly reports provided clear performance insights. Overall, the platform reduced manual effort and improved workflow efficiency.
+
+
