@@ -122,7 +122,7 @@ PostgreSQL / Neon DB
 API Keys (Gemini, Replicate, Clerk, Bright Data)
 
 Step 1 — Clone Repository
-git clone https://github.com/your-username/ai-youtube-analytics-tools.git
+git clone https://github.com/Shaikshavali228/AI-Youtube-Analytics---smarter-Growth-Insights
 cd ai-youtube-analytics-tools
 Step 2 — Install Dependencies
 npm install
